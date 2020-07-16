@@ -1,1 +1,5 @@
-# ATSA_Project
+# INTERDEPENDENCY BETWEEN STOCK MARKET INDICES AND NATURAL GAS, SILVER, CRUDE OIL IN INDIA
+MGARCH points to Multivariate generalized autoregressive conditional heteroskedasticity models. Employing different MGARCH models considering both symmetry and the asymmetry, we aim to examine the temporally changing correlations and volatility between natural gas, crude oil, silver and stock indices in India. Obtained results clearly suggests that if we consider asymmetry VARMA-DCC-GARCH model outperforms CCC model in evaluating correlations that varies over time. With the help of optimal portfolio weights and dynamic hedge ratios of stock with bullion commodity silver and energy commodities natural gas(NTG) and crude oil we determine portfolio diversification benefits in the market and forecast potential market risk vulnerabilities. Over the daily data taken from 2006 to 2020 we observe statistically significant cointegration among NTG, crude oil, silver and stock indices in India.
+
+Programming Language : R
+Libraries used: rmgarch, riskR, tseries,psych,tseries,fDMA,urca,MTS
